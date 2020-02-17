@@ -37,4 +37,7 @@ class GamesController < ApplicationController
     end
     return true
   end
+  # def include?(word, letters)
+  #   word.upcase.chars.all? { |letter| word.count(letter) <= letters.count(letter) }
+  # end
 end

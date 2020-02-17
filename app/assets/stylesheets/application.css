@@ -16,3 +16,8 @@
  body {
   font-family: 'Bree Serif', serif;
  }
+
+.container {
+  width: 75%;
+  margin: 0 auto;
+}

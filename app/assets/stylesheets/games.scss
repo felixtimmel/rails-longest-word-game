@@ -23,3 +23,25 @@
 .form {
   margin-bottom: 20px;
 }
+
+#realform {
+  display: flex;
+}
+
+#input {
+  flex-grow: 1;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#submit {
+  padding: 18px;
+  color: white;
+  background-color: #3498DC;
+  font-size: 20px;
+}
+
+#submit:hover {
+  border-radius: 8px;
+  border: solid 2px rgb(220, 220, 220);
+}

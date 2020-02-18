@@ -14,10 +14,15 @@
  *= require_self
  */
  body {
-  font-family: 'Bree Serif', serif;
+  font-family: Roboto, Helvetica, sans-serif;
+  font-size: 20px;
+ }
+
+ h1 {
+  font-size: 40px;
  }
 
 .container {
-  width: 75%;
+  width: 60%;
   margin: 0 auto;
 }

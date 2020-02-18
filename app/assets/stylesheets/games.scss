@@ -45,3 +45,11 @@
   border-radius: 8px;
   border: solid 2px rgb(220, 220, 220);
 }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
